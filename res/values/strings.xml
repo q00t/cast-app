@@ -15,9 +15,11 @@
   limitations under the License.
   -->
 <resources>
+    <string name="hypnosoft_id">87C84213</string>
+
+    <string name="app_id">4F8B3483</string>
 
     <string name="app_name">Cast Videos</string>
-    <string name="app_id">4F8B3483</string>
     <string name="action_settings">Settings</string>
     <string name="cast_app_name">GoogleCastPlayer</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
